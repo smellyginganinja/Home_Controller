@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSHomeKitUsageDescription</key>
+	<string>Home Controller uses Apple Home to show and control your lights, cameras and robot vacuum.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>The microphone is used for two-way talk through your cameras.</string>
+</dict>
+</plist>
